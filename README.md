@@ -1,6 +1,6 @@
-This is a docker container for https://github.com/yosinski/deep-visualization-toolbox to get the toolbox running on CPU without going through the hassle of manual installation.
+This is a docker container for https://github.com/yosinski/deep-visualization-toolbox to get the toolbox running with CPU only without going through the hassle of manual installation.
 
-Please check out https://github.com/fishcorn/dvtb-container for a docker container of the same toolbox but runs on CUDA GPUs. I created this container because fishcorn/dvtb-container did not work on my MacBook which lacks Nvidia GPU.
+Please check out https://github.com/fishcorn/dvtb-container for a docker container of the same toolbox but runs with CUDA GPUs. I created this container because fishcorn/dvtb-container did not work on my MacBook which lacks Nvidia GPU.
 
 ## Running this container
 
